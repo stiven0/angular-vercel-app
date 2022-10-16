@@ -1,3 +1,3 @@
 # AngularVercel
 
-url: https://frontend-secretary-treasury-pb.vercel.app/
+url: https://angular-vercel-app.vercel.app/
